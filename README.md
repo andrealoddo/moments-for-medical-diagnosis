@@ -15,6 +15,7 @@ Reference work:
 --- todo
 
 Reference manuscript of the tool used to extract a subset of the features extracted in the reference work:
+
 @article{DiRuberto2018,
 title = {Fast and accurate computation of orthogonal moments for texture analysis},
 author = {Cecilia {Di Ruberto} and Lorenzo Putzu and Giuseppe Rodriguez},
